@@ -4,13 +4,19 @@ import 'package:biografie/app.dart';
 import 'package:biografie/app_controller.dart';
 import 'package:biografie/models.dart';
 import 'package:biografie/repository/app_repository.dart';
+import 'package:biografie/ui_settings.dart';
 
 void main() {
   testWidgets('Biografie app loads today page', (tester) async {
     final controller = AppController(_MemoryAppRepository());
     await controller.load();
 
-    await tester.pumpWidget(BiografieApp(controller: controller));
+    await tester.pumpWidget(
+      BiografieApp(
+        controller: controller,
+        settingsController: UiSettingsController.memory(),
+      ),
+    );
 
     expect(find.text('Biografie'), findsOneWidget);
     expect(find.text('Schnell erfassen'), findsOneWidget);
