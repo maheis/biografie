@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 512 512"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="biography.svg"
+   inkscape:version="1.4.3 (0d15f75042, 2025-12-25)"
+   width="512"
+   height="512"
+   inkscape:export-filename="biography.png"
+   inkscape:export-xdpi="12.375"
+   inkscape:export-ydpi="12.375"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:zoom="1.1171875"
+     inkscape:cx="195.58042"
+     inkscape:cy="418.90909"
+     inkscape:window-width="3440"
+     inkscape:window-height="1353"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2" />
+  <!-- Font Awesome Pro 5.15.4 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
+  <defs
+     id="defs1">
+    <style
+       id="style1">.fa-secondary{opacity:.4}</style>
+  </defs>
+  <path
+     d="m 195.50206,455.31936 c -15.77205,5.15613 -29.72418,-1.92116 -34.88032,-17.69321 -5.15612,-15.77206 4.54983,-30.58354 17.69322,-34.88032 l 262.31728,-85.75566 c 2.77582,13.85883 11.54661,40.21495 17.62249,52.43119 z"
+     class="fa-secondary"
+     id="path1"
+     style="fill:#ffb74d;fill-opacity:1;stroke-width:0.864243" />
+  <path
+     d="m 178.31496,402.74583 269.43936,-88.08398 a 20.741851,20.741851 0 0 0 13.2699,-26.16025 L 372.94024,19.062244 A 27.655802,27.655802 0 0 0 338.05991,1.369035 L 75.192248,87.304623 A 82.967405,82.967405 0 0 0 22.112623,191.9456 l 85.935587,262.86767 a 82.967405,82.967405 0 0 0 104.64098,53.07962 l 269.43936,-88.08398 a 20.741851,20.741851 0 0 0 13.26991,-26.16024 l -4.29679,-13.14339 a 20.741851,20.741851 0 0 0 -26.16024,-13.2699 l -269.43937,88.08398 c -15.77205,5.15613 -29.72418,-1.92116 -34.88032,-17.69321 -5.15612,-15.77206 4.54983,-30.58354 17.69322,-34.88032 z m 32.35485,-301.53869 a 55.311603,55.311603 0 1 1 -35.38641,69.76065 55.311603,55.311603 0 0 1 35.38641,-69.76065 z m -33.56747,208.82748 c -8.54254,-26.1307 9.24937,-55.39682 39.7338,-65.36266 l 4.10731,-1.34274 a 89.207245,89.207245 0 0 0 65.47047,-21.40333 l 4.10731,-1.34275 c 30.48443,-9.96585 62.12808,3.13902 70.67062,29.26971 l 5.15613,15.77206 c 2.8493,8.71571 -3.05847,18.45754 -13.2446,21.78755 l -147.28804,48.15078 c -10.18613,3.33 -20.71025,-1.04907 -23.55687,-9.75657 z"
+     class="fa-primary"
+     id="path2"
+     style="fill:#ffb74d;fill-opacity:1;stroke-width:0.864243" />
+</svg>

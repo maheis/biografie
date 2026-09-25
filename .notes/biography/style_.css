@@ -1,0 +1,27 @@
+.settings {
+    position: fixed;
+    right: 6px;
+    bottom: 6px;
+    z-index: 100;
+}
+
+.index {
+    position: fixed;
+    left: 6px;
+    top: 6px;
+    z-index: 100;
+}
+
+.index-add {
+    position: fixed;
+    left: 43px;
+    top: 432px;
+    z-index: 100;
+}
+
+.index-save {
+    position: fixed;
+    right: 43px;
+    top: 432px;
+    z-index: 100;
+}
